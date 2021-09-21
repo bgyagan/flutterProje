@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334420800441",
+    "project_id": "fireworks-64cb0",
+    "storage_bucket": "fireworks-64cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334420800441:android:a755b137c8f0698e813c68",
+        "android_client_info": {
+          "package_name": "com.example.firework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334420800441-t2mmu66f807d6p48d59b4rjlo3cp503p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYDFtsVaq5N9Jj8-YHAoZMofX33WnoLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334420800441-t2mmu66f807d6p48d59b4rjlo3cp503p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
